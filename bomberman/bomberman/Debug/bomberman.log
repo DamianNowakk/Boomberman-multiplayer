@@ -1,0 +1,87 @@
+﻿Build started 2015-09-09 20:28:39.
+     1>Project "E:\SEMESTR 4\rozproszone\projekt\bomberman\bomberman\bomberman.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"SFML-2.1\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Bomba.cpp Bonus.cpp ElementSwiata.cpp Gracz.cpp Mapa.cpp Sciana.cpp Silnik.cpp Swiat.cpp Wybuch.cpp main.cpp
+         Bomba.cpp
+         Generating Code...
+         Compiling...
+         main.cpp
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\main.cpp(16): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         Wybuch.cpp
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\wybuch.cpp(104): warning C4305: 'argument' : truncation from 'double' to 'float'
+         Swiat.cpp
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\swiat.cpp(157): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         Silnik.cpp
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(116): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(285): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(309): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(311): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(315): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(353): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(354): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(375): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(376): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(396): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(397): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(417): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(418): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(446): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(454): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(466): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(474): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(486): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(494): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(506): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(514): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(547): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(548): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(556): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(557): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(565): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(566): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(574): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(575): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(598): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(601): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(602): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(611): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(612): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(621): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(622): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(631): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(632): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(646): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\silnik.cpp(866): warning C4018: '<' : signed/unsigned mismatch
+         Sciana.cpp
+         Mapa.cpp
+         Gracz.cpp
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\gracz.cpp(35): warning C4244: 'return' : conversion from 'const float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\gracz.cpp(39): warning C4244: 'return' : conversion from 'const float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\gracz.cpp(217): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\gracz.cpp(243): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\gracz.cpp(269): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\gracz.cpp(295): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\gracz.cpp(316): warning C4244: 'initializing' : conversion from 'const float' to 'int', possible loss of data
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\gracz.cpp(317): warning C4244: 'initializing' : conversion from 'const float' to 'int', possible loss of data
+         ElementSwiata.cpp
+         Bonus.cpp
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\bonus.cpp(12): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         Generating Code...
+     1>e:\semestr 4\rozproszone\projekt\bomberman\bomberman\gracz.cpp(357): warning C4715: 'Gracz::przemieszczenie' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\SEMESTR 4\rozproszone\projekt\bomberman\Debug\bomberman.exe" /INCREMENTAL /NOLOGO /LIBPATH:"SFML-2.1\lib" "sfml-audio-d.lib" "sfml-graphics-d.lib" "sfml-main-d.lib" "sfml-network-d.lib" "sfml-system-d.lib" "sfml-window-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\SEMESTR 4\rozproszone\projekt\bomberman\Debug\bomberman.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\SEMESTR 4\rozproszone\projekt\bomberman\Debug\bomberman.lib" /MACHINE:X86 Debug\Bomba.obj
+         Debug\Bonus.obj
+         Debug\ElementSwiata.obj
+         Debug\Gracz.obj
+         Debug\main.obj
+         Debug\Mapa.obj
+         Debug\Sciana.obj
+         Debug\Silnik.obj
+         Debug\Swiat.obj
+         Debug\Wybuch.obj
+         bomberman.vcxproj -> E:\SEMESTR 4\rozproszone\projekt\bomberman\Debug\bomberman.exe
+     1>Done Building Project "E:\SEMESTR 4\rozproszone\projekt\bomberman\bomberman\bomberman.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.12
